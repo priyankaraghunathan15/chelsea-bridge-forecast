@@ -2,17 +2,20 @@
 
 > **Note: This is a mockup dashboard using synthetic data. Real implementation completed under NDA with MassDOT.**
 
+<div align="center">
+
+![Dashboard Screenshot](images/home.png)
+![Dashboard Screenshot](images/historical-trends.png)
+
+
+
+
 **Achieved 75% prediction accuracy • 30-minute advance warnings • Real-time ML integration**
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![React](https://img.shields.io/badge/React-18+-blue.svg)](https://reactjs.org)
 [![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-orange.svg)](https://scikit-learn.org)
-
-<div align="center">
-
-![Dashboard Screenshot](images/home.png)
-![Dashboard Screenshot](images/historical-trends.png)
 
 </div>
 
