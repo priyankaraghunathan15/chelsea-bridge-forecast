@@ -192,7 +192,7 @@ docker-compose up --build
 
 ---
 
-## 🤝 Acknowledgments
+## Acknowledgments
 
 - **MassDOT** - Massachusetts Department of Transportation
 - **MBTA** - Massachusetts Bay Transportation Authority
