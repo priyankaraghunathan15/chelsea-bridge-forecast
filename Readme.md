@@ -4,7 +4,8 @@
 
 <div align="center">
 
-![Dashboard Screenshot](docs/screenshots/dashboard-main.png)
+![Dashboard Screenshot](images/dashboard-home.png)
+![Dashboard Screenshot](images/dashboard-notfications.png)
 
 **Achieved 75% prediction accuracy • 30-minute advance warnings • Real-time ML integration**
 
